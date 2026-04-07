@@ -234,8 +234,4 @@ prosperity4-visualizer/
 | File won't parse | Make sure it's an official Prosperity 4 `.log` file (JSON with `activitiesLog` and `tradeHistory` keys) |
 | Charts look empty | Check that the log contains trade data — some early tutorial logs may have zero fills |
 
----
 
-## License
-
-MIT
